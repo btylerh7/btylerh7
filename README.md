@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @btylerh7
-- I'm a music teacher, programmer, and music producer
-- 👀 I’m interested in programming, web design, music, and teaching
-- 🌱 I’m currently learning React, TypeScript
-- 💞️ I’m looking to collaborate on ...
+- music teacher, programmer, and music producer
+- currently learning React, TypeScript
 - 📫 How to reach me tylerhbaker99@gmail.com
 
 <!---
