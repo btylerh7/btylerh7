@@ -1,5 +1,4 @@
 - music teacher, programmer, and music producer
-- currently learning React, TypeScript
 - 📫 How to reach me tylerhbaker99@gmail.com
 
 <!---
