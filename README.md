@@ -11,6 +11,8 @@ I'm currently learning:
 - Swift (#swiftui)
 - Rust
 
+I am open to learning other technologies as well! Learning is exciting!
+
 Feel free to reach out to me at tylerhbaker99@gmail.com!
 
 <!---
