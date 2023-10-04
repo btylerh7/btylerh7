@@ -1,19 +1,9 @@
-I am a music teacher, programmer, and music producer. I love learning new things and creating new projects.
+Programmer by day, programmer by night. I never sleep
 
-I have experience in:
-- React
-- Svelte
-- Node.js
-- Express
-- Typescript
-
-I'm currently learning:
-- Swift (#swiftui)
-- Rust
-
-I am open to learning other technologies as well! Learning is exciting!
-
-Feel free to reach out to me at tylerhbaker99@gmail.com!
+## Some fun things about me
+- I love anime, language learning, and music. 🎬
+- I have a degree in music education, but I changed careers ♫
+- I actually like CSS, don't judge 😅
 
 <!---
 btylerh7/btylerh7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
